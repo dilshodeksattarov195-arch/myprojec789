@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerptringify",
+        "uuid": 5081160,
+        "checksum": "7spgys"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
